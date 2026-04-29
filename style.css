@@ -11,7 +11,7 @@ img {
     height: 550px;
 }
 main {
-    display: inline;
+    display: flex;
 }
 a {
     width: 280px;
