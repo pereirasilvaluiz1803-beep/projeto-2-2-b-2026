@@ -18,6 +18,11 @@ a {
     height: 79px;
     background-color: #56e0ff;
     border-radius: 16px;
+    padding: 16px;
+    
 }
-
+ .texto{
+    width: 593px;
+    min-height: 352px;
+ }
 
