@@ -24,5 +24,10 @@ a {
  .texto{
     width: 593px;
     min-height: 352px;
+
+ }
+ .principal{
+    display: flex;
+    flex-direction:column ;
  }
 
